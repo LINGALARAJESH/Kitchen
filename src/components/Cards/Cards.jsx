@@ -5,7 +5,7 @@ import CB from "../../Assets/images/Nonveg/Biryani/chicken Biryani.jpg"
 import MB from "../../Assets/images/Nonveg/Biryani/mutton biryani.jpg"
 import CMB from "../../Assets/images/Nonveg/Biryani/mandi biryani"
 import MMB from "../../Assets/images/Nonveg/Biryani/mutton mandi biryani.jpeg"
-import PB from "../../Assets/images/Nonveg/Biryani/Prawn-Biryani-Recipe.jpg"
+
 
 function GroupExample() {
   return (
