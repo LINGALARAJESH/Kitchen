@@ -1,0 +1,22 @@
+#hmg{
+    width:150px;
+    height:95px;
+}
+#navv{
+    z-index: 5;
+    position:sticky;
+    top:0;
+}
+#na{
+    color:rgb(90, 90, 90);
+    font-size: 18px;
+    line-height: 2px;
+    letter-spacing: 1px;
+   
+}
+#na:hover{
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+    text-decoration-color:purple ;
+    text-decoration-thickness:3px;
+}

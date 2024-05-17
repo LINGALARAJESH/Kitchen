@@ -1,0 +1,15 @@
+#mgha{
+    margin:5px;
+}
+#imga{
+    width:auto;
+    height:200px;
+    border-radius: 15px;
+    object-fit: cover;
+    margin:auto;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+#simg{
+   gap:5px;
+}

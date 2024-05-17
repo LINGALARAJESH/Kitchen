@@ -1,0 +1,36 @@
+.bggg {
+    background-image: linear-gradient(45deg,
+            rgba(73, 73, 73, 0.47),
+            rgba(11, 11, 11, 0.227)), url("https://wallpapers.com/images/featured/food-4k-1pf6px6ryqfjtnyr.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.bggg h1{
+    text-align:center;
+    color: #ffffff;
+}
+.bggg p{  
+
+    font-size: 18px;
+    color: #ffffff;
+    width:70%;
+    text-align: justify;
+}
+.bggg address{
+    font-size: 18px;
+    color: #ffffff;
+    width:70%;
+}
+.hai{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+}
